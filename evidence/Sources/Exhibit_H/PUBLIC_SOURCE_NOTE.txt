@@ -1,0 +1,1 @@
+Native Monaxa confirmations/ledger records remain the preferred clickable sources. This package currently contains a public source inventory only; do not represent it as the native broker record.

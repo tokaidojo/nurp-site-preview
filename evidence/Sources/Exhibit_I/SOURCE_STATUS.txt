@@ -1,0 +1,11 @@
+EXHIBIT I SOURCE STATUS — UPDATED SEPTEMBER 22, 2026
+
+New recovered source:
+I_Orphan_Trades_3-3-26_REDACTED_PUBLIC.xlsx
+
+The workbook headings describe 32 orphaned trades for Argos #1 and 29 for Argos #2 (61 listed positions).
+At row level, 48 positions are explicitly labeled “Orphaned” and 13 are labeled “Open.”
+The 48 explicitly labeled positions total approximately -$16,575.12.
+
+Treatment:
+This materially corroborates that an orphan-trade problem was being tracked at the account level and resolves the source of the earlier $16,575.12 working figure. It is not treated as a complete final damages calculation. Master/copier mapping remains necessary to establish causal classification and any non-estimated orphan-trade damages amount.

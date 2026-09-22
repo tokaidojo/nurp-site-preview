@@ -1,0 +1,5 @@
+Exhibit E — Talos 5X September 8 Daily Confirmation
+Status: SOURCE VALUES VERIFIED; NATIVE PUBLIC COPY NOT LOCKED
+Best source: September 8 GNT Daily Confirmation values are verified in the evidence record.
+Pairing action: Hold source attachment until native confirmation is collected/materialized.
+Publication limit: Do not publish a reconstructed page as if it were the native broker confirmation.

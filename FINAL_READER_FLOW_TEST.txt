@@ -1,0 +1,31 @@
+FINAL READER-FLOW TEST — DEPLOYABLE PUBLIC v4
+
+Test perspective: a first-time reader who knows nothing about NURP, GNT, AFT, algorithmic trading, or the customer.
+
+CORE QUESTIONS
+1. What happened? PASS — homepage now gives a four-part two-minute summary.
+2. How much money are we talking about? PASS WITH OPEN ITEM — stable Monaxa, GNT and fee figures are shown; OX is explicitly still being reconciled.
+3. What evidence supports the account? PASS — homepage routes directly to Evidence Room; Evidence Room begins with four high-value records and explains evidentiary limits.
+
+READER-FLOW CHANGE MADE
+- Added a compact 'THE TWO-MINUTE VERSION' immediately after the homepage opening section.
+- It gives the relationship duration, stable financial components, outcome-versus-causation limitation, and a direct route to Results/Evidence.
+- It does not introduce a new grand total while OX remains open.
+
+PAGE LOAD / COMPLEXITY SNAPSHOT
+- index.html: ~1975 visible words | H1: Before You Give NURP Your Money, I Believe You Should See What Happened to Mine.
+- results.html: ~919 visible words | H1: What Happened to My Money?
+- timeline.html: ~682 visible words | H1: How I Went From Signing Up to Getting Out
+- issues.html: ~479 visible words | H1: The Issues That Matter, in Plain English
+- evidence.html: ~1342 visible words | H1: You Do Not Have to Take My Word for It
+- questions.html: ~380 visible words | H1: The Questions I Still Believe Deserve Answers
+- responses.html: ~528 visible words | H1: A visible record of answers and changes
+- methodology.html: ~334 visible words | H1: Why the Accounting Is More Careful Than the Headline
+
+EDITORIAL CONCLUSION
+The public site now supports progressive disclosure: first-time readers can understand the essential experience quickly, while technical and documentary detail remains available for readers who want to verify it.
+
+REMAINING PRE-LAUNCH ITEMS
+- OX: reconcile remaining records, or at actual launch use the previously approved clearly labeled estimate approach if records remain unavailable.
+- Browser QA: inspect the deployable package in the actual hosting/browser environment, including mobile widths.
+- Hosting/deployment: publish only the deployable public package, not the internal publication-candidate archive.

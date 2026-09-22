@@ -1,0 +1,5 @@
+Exhibit H — Monaxa [ACCOUNT REDACTED]
+Status: PRIMARY BROKER EVIDENCE IDENTIFIED
+Best source: Monaxa confirmations/ledger records establish $50k external credit, $200k + $100k internal Vault transfers, and $499.66 residual return; detailed broker statement supports 883 trades.
+Pairing action: Pair with primary Monaxa confirmations and detailed statement when materialized into public-source folder.
+Publication limit: Internal Vault movements are not separate external investment.
