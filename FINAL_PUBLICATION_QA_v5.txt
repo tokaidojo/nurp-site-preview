@@ -1,0 +1,20 @@
+FINAL PUBLICATION QA — v5
+Date: September 22, 2026
+
+Changes after browser review:
+1. Fixed site-wide navigation spacing by making the navigation-link container a flex row with explicit gaps and wrapping.
+2. Smoothed the September 22 OX correction sentence on Responses & Corrections without changing its substance.
+
+Automated structural checks:
+- Internal HTML targets and fragment anchors checked.
+- Retired/provisional figures scanned: $1,674,640.62; $325,191.26; $1,860,867.36; $511,418.
+- Required CSS navigation rule confirmed.
+- OX sentence correction confirmed.
+
+Publication controls remain unchanged:
+- No grand-total headline while OX reconciliation remains open.
+- Monaxa reconstructed depletion: $349,500.34.
+- GNT reconstructed depletion: $821,912.02.
+- NURP reconstructed net retained fees: $178,037.
+- Orphan-trade figures are not added separately to GNT depletion.
+- GNT execution findings are presented separately from customer-specific damages and with the required-broker context.
