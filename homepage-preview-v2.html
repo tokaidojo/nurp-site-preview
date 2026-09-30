@@ -117,6 +117,9 @@ footer{margin-top:50px;background:var(--soft);padding:34px 0;font-size:13px;colo
 .record-list{border-top:1px solid var(--line);margin:22px 0}.record-row{display:grid;grid-template-columns:190px 1fr auto;gap:18px;padding:16px 4px;border-bottom:1px solid var(--line);align-items:start}.record-row strong{font-size:17px}.record-row small{color:var(--muted)}.record-row a{font-size:13px;font-weight:700;white-space:nowrap}
 .independence{border:2px solid var(--navy);border-radius:12px;padding:28px;margin:32px 0}.independence .bigline{margin:8px 0}
 @media(max-width:760px){.source-strip,.visibility-grid,.loss-card-grid,.pattern-grid{grid-template-columns:1fr}.master-flow,.review-timeline{grid-template-columns:1fr}.flow-mid b{transform:rotate(90deg)}.record-row{grid-template-columns:1fr;gap:5px}.record-row a{white-space:normal}.unanswered{grid-template-columns:1fr}}
+
+.record-summary{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:22px 0}.record-summary>div{background:var(--navy);color:#fff;border-radius:9px;padding:18px;text-align:center}.record-summary b{display:block;font-size:28px;line-height:1.1}.record-summary small{display:block;margin-top:5px;opacity:.85;font-weight:700;letter-spacing:.04em}.record-jumps{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0 26px}.record-jumps a{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:8px 12px;text-decoration:none;font-size:13px;font-weight:800;background:#fff}.investigative-bridge{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:24px 0;margin:12px 0 2px}.investigative-bridge p{margin:7px 0}.investigative-bridge strong{font-size:21px}
+@media(max-width:760px){.record-summary{grid-template-columns:1fr}}
 </style></head><body><div style="background:#fff3cd;border-bottom:1px solid #e0c36a;padding:10px 20px;text-align:center;font:700 13px Arial,sans-serif">V2 PREVIEW ONLY — original V1 remains unchanged.</div>
 <header><div class="wrap"><nav><div class="brand">Three Years with NURP</div><div class="nav">
 <a href="index.html">My Story</a><a href="results.html">My Results</a><a href="timeline.html">Timeline</a><a href="issues.html">Key Issues</a><a href="evidence.html">Evidence</a><a href="questions.html">Open Questions</a>
@@ -187,6 +190,7 @@ footer{margin-top:50px;background:var(--soft);padding:34px 0;font-size:13px;colo
 
 <section class="chapter"><div class="number">REASSURANCE DURING THE DOWNTURN</div><a class="quote-card" href="evidence.html"><span>NURP ACCOUNT MANAGER — APRIL 2026</span><blockquote>“All of your accounts are set up correctly at this moment in time; the algorithms are just in a bit of a rut.”<br>“get back into the green as soon as possible”</blockquote><small>Contemporaneous email exchange with NURP RM Alex Conta.<br><b>View source evidence →</b></small></a></section><section class="chapter"><div class="number">NURP'S OWN GNT FINDINGS — AUGUST 2026</div>
 <a class="quote-card metrics-quote" href="evidence.html#d" aria-label="View NURP's GNT execution findings"><span>NURP DOCUMENT</span><div class="quote-metrics"><div><b>30%</b><small>approx. master performance retained</small></div><div><b>89%</b><small>fills worse than master</small></div><div><b>~70%</b><small>expected returns lo<section class="chapter customer-question"><div class="number">THE BROADER CUSTOMER QUESTION</div>
+<div class="investigative-bridge"><p>The records above establish what happened in my accounts and what NURP later reported about GNT execution.</p><p><strong>That led to the next question: was anything similar being reported beyond my accounts?</strong></p></div>
 <h2>If These Algorithms Did This to My Accounts, What Happened to Everyone Else?</h2>
 <p class="human">My records establish what happened to <strong>my</strong> accounts. They do not establish what happened to every NURP customer.</p>
 <p class="human">But after reconstructing nearly three years of my own trading, another question became impossible for me to ignore:</p>
@@ -236,11 +240,13 @@ footer{margin-top:50px;background:var(--soft);padding:34px 0;font-size:13px;colo
 <p class="qualifier"><strong>THIRD-PARTY ACCOUNT — NOT INDEPENDENTLY AUDITED.</strong> The two reviews are useful because they show the same customer's publicly expressed view at two different points in time.</p>
 </section>
 
-<section class="chapter"><div class="number">THE CUSTOMER LOSS RECORD</div>
+<section class="chapter" id="customer-loss-record"><div class="number">THE CUSTOMER LOSS RECORD</div>
 <h2>What Other Customers Publicly Reported</h2>
 <div class="context-band"><strong>About this selection</strong><p>NURP has many positive customer reviews. The accounts below are not presented as a statistically representative sample of NURP customers or NURP reviews. This section has a narrower purpose: to document public customer accounts involving substantial trading losses, severe drawdowns, account depletion, reversals after profitable periods or closely related experiences. I have not independently audited these customers' brokerage accounts. Where NURP provided a substantive public response, that response should be read with the customer's account.</p></div>
+<div class="record-summary"><div><b>6</b><small>FEATURED CASES</small></div><div><b>10</b><small>ADDITIONAL NAMED CASES</small></div><div><b>7</b><small>RECURRING PATTERNS</small></div></div>
+<div class="record-jumps"><a href="#featured-customer-cases">Featured cases</a><a href="#customer-patterns">Recurring patterns</a><a href="#additional-customer-cases">Additional cases</a></div>
 
-<div class="loss-card-grid">
+<div class="loss-card-grid" id="featured-customer-cases">
 <div class="loss-card"><div class="reported">ALMOST $3 MILLION</div><h3>Clay H.</h3><p>Reported almost $3 million in losses after previously speaking positively about NURP and publicly promoting the company.</p><div class="evtag">THIRD-PARTY ACCOUNT · NOT INDEPENDENTLY AUDITED</div><a href="https://ie.trustpilot.com/review/nurp.com?page=8">View source →</a></div>
 <div class="loss-card"><div class="reported">$1.2 MILLION</div><h3>Michael Sarap</h3><p>Reported a $1.2 million total loss and difficulty obtaining a response afterward.</p><div class="evtag">THIRD-PARTY ACCOUNT · NOT INDEPENDENTLY AUDITED</div><a href="https://www.trustpilot.com/review/nurp.com?page=2">View source →</a></div>
 <div class="loss-card"><div class="reported">$380,000</div><h3>Robert K.</h3><p>Reported losing $380,000 in seven months.</p><div class="evtag">THIRD-PARTY ACCOUNT · NOT INDEPENDENTLY AUDITED</div><a href="https://www.trustpilot.com/review/nurp.com">View source →</a></div>
@@ -249,7 +255,7 @@ footer{margin-top:50px;background:var(--soft);padding:34px 0;font-size:13px;colo
 <div class="loss-card"><div class="reported">$15,000 REPORTED LOSS</div><h3>Weston Wiggins</h3><p>Reported that a master algorithm with an approximately 7% historical maximum drawdown exceeded 10% drawdown in his live account before his equity monitor closed trades.</p><div class="evtag">THIRD-PARTY ACCOUNT · NOT INDEPENDENTLY AUDITED</div><a href="https://www.trustpilot.com/review/nurp.com?page=3">View source →</a></div>
 </div>
 
-<h3>Recurring Patterns Across the Public Accounts</h3>
+<h3 id="customer-patterns">Recurring Patterns Across the Public Accounts</h3>
 <div class="pattern-grid">
 <div><b>PROFITABLE FIRST → LATER LOSS</b><p>William · Tom Rutledge · fd mgt · my own experience</p></div>
 <div><b>FED / JULY 2024</b><p>Bill Larson · Dan Lerma · Nate H. · additional customer accounts</p></div>
@@ -260,7 +266,7 @@ footer{margin-top:50px;background:var(--soft);padding:34px 0;font-size:13px;colo
 <div><b>SUPPORT AFTER LOSSES</b><p>Michael Sarap · Tony Storniolo · Nate H. · my correspondence record</p></div>
 </div>
 
-<h3>Additional Accounts in the Working Customer Loss Record</h3>
+<h3 id="additional-customer-cases">Additional Accounts in the Working Customer Loss Record</h3>
 <div class="record-list">
 <div class="record-row"><strong>Bill Larson</strong><span>Reported a July 2024 FED account wipeout despite turning off volatile pairs as instructed.</span><a href="https://nz.trustpilot.com/review/nurp.com?page=8">Source →</a></div>
 <div class="record-row"><strong>Dan Lerma</strong><span>Long-term customer who reported major gains and losses and described the July 2024 FED event affecting multiple users.</span><a href="https://www.trustpilot.com/review/nurp.com?page=7">Source →</a></div>
