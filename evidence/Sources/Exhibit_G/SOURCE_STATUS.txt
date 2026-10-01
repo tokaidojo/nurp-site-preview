@@ -1,5 +1,6 @@
 Exhibit G — OX financial evidence
-Status: PRIMARY BROKER RECORDS AVAILABLE; FINANCIAL EXHIBIT FROZEN
-Best source: Primary OX detailed records plus September 22, 2026 OX response and July/August/September [ACCOUNT REDACTED] statements.
-Pairing action: Pair source set now, but do not revise Exhibit G headline until archived [ACCOUNT REDACTED] statement arrives.
-Publication limit: New OX evidence materially changes prior loss control; coordinated financial revision pending.
+Status: PRIMARY BROKER RECORDS AVAILABLE; APPROVED BROKER-LEVEL RECONSTRUCTION IN USE
+Best source: Primary OX detailed records plus the preserved OX statements and correspondence supporting the approved broker-level reconstruction.
+Approved publication figure: -$255,336.07 of reconstructed economic depletion attributed to OX.
+Pairing action: Preserve the source set and the approved reconstruction. Do not substitute the separately documented January 2 closing-cycle result for the lifetime OX figure.
+Publication limit: The broker-level figure does not establish that any single strategy, broker action, or closing event caused the entire OX result. Internal transfers are not new customer investment.
